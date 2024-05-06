@@ -1,12 +1,10 @@
-# Aspiring Data Analyst
+# Hi I'm Arzoo ! Data Enthusiast
 
 ## Certifications for Data Analyst
 
-| Skill Certificates                                             |
-|----------------------------------------------------------------|
-| [Python Libraries](https://moonshot.scaler.com/s/sl/S5H5tOyZM3)|
-| [SQL](https://moonshot.scaler.com/s/sl/UbvSt91s1H)             |
-| [EDA](https://moonshot.scaler.com/s/sl/2KNZRl4RqV)             |
+[Python Libraries](https://moonshot.scaler.com/s/sl/S5H5tOyZM3)
+[SQL](https://moonshot.scaler.com/s/sl/UbvSt91s1H)
+[EDA](https://moonshot.scaler.com/s/sl/2KNZRl4RqV)
 
 ## Projects
 -------------------------------------------------------------------------------------------------------------------------------------------------------------
