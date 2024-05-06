@@ -5,7 +5,7 @@ Hello! I'm Arzoo, an aspiring data analyst dedicated to exploring the vast world
 ## Skills with certificates
 - <a href="https://moonshot.scaler.com/s/sl/S5H5tOyZM3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  /> [**Python Libraries:**](https://moonshot.scaler.com/s/sl/S5H5tOyZM3) - Pandas, NumPy, Matplotlib, Seaborn, SciPy 
 - <a href="https://moonshot.scaler.com/s/sl/UbvSt91s1H"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/7246cf40-3d93-4162-af99-ce93cc34d0d7" width="20" height="20"/> [**SQL:**](https://moonshot.scaler.com/s/sl/UbvSt91s1H) - Proficient in writing complex queries and managing databases
-- <a href="https://moonshot.scaler.com/s/sl/2KNZRl4RqV"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/fdff3647-b2a9-4083-aad7-8d2c5b7a7b1d" width="25" height="25"/> [**Exploratory Data Analysis:**](https://moonshot.scaler.com/s/sl/2KNZRl4RqV) - Experienced in using statistical techniques to explore and visualize data
+- <a href="https://moonshot.scaler.com/s/sl/2KNZRl4RqV"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/71f1dd8f-cb7d-4ba0-b99f-fd6ddcc2f4c6" width="25" height="20"/> [**Exploratory Data Analysis:**](https://moonshot.scaler.com/s/sl/2KNZRl4RqV) - Experienced in using statistical techniques to explore and visualize data
 
 ###
 ## Projects
