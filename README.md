@@ -3,10 +3,11 @@
 Hello! I'm Arzoo, an aspiring data analyst dedicated to exploring the vast world of data. I'm skilled in various Python libraries, SQL, and the art of exploratory data analysis (EDA). My passion lies in dissecting complex datasets to uncover patterns and insights that drive strategic decisions.
 
 ## Skills with certificates
-- <a href="https://moonshot.scaler.com/s/sl/S5H5tOyZM3"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/21ba5d1a-fdcf-4582-928b-4bbe8ef1f227" width="20" height="20"/> [**Python Libraries:**](https://moonshot.scaler.com/s/sl/S5H5tOyZM3) - Pandas, NumPy, Matplotlib, Seaborn, SciPy 
+- <a href="https://moonshot.scaler.com/s/sl/S5H5tOyZM3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  /> [**Python Libraries:**](https://moonshot.scaler.com/s/sl/S5H5tOyZM3) - Pandas, NumPy, Matplotlib, Seaborn, SciPy 
 - <a href="https://moonshot.scaler.com/s/sl/UbvSt91s1H"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/7246cf40-3d93-4162-af99-ce93cc34d0d7" width="20" height="20"/> [**SQL:**](https://moonshot.scaler.com/s/sl/UbvSt91s1H) - Proficient in writing complex queries and managing databases
 - <a href="https://moonshot.scaler.com/s/sl/2KNZRl4RqV"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/d37813a6-6073-4805-80f6-a62ef80e1b20" width="20" height="20"/> [**Exploratory Data Analysis:**](https://moonshot.scaler.com/s/sl/2KNZRl4RqV) - Experienced in using statistical techniques to explore and visualize data
 
+###
 ## Projects
 Here are a few projects that showcase my abilities:
 
