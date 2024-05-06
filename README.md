@@ -21,7 +21,7 @@ Here are a few projects that showcase my abilities:
 ## Connect With Me
 
 - LinkedIn: <a href="www.linkedin.com/in/arzoo-baloda-138948bb"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/7ba05e44-542b-464a-9a6f-bfa22a207112" width="20" height="20"/>
-  [Arzoo Baloda](in/arzoo-baloda-138948bb)
+  [Arzoo Baloda](https://www.linkedin.com/in/arzoo-baloda-138948bb/)
 
 - Email: <a href="mailto:your-balodarzoo@gmail.com"> <img src="https://github.com/azbaloda/azbaloda/assets/161424775/a69af330-c76d-412c-af36-912a2792d32e" width="20" height="15"/> [balodarzoo@gmail.com](mailto:your-balodarzoo@gmail.com)
 
