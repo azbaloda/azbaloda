@@ -1,6 +1,6 @@
 # Hi I'm Arzoo ! Data Enthusiast  👋
 ## About Me
-Hello! I'm Arzoo, an aspiring data analyst dedicated to exploring the vast world of data. I'm skilled in various Python libraries, SQL, and the art of exploratory data analysis (EDA). My passion lies in dissecting complex datasets to uncover patterns and insights that drive strategic decisions.
+Hello! I'm Arzoo, a data analyst dedicated to exploring the vast world of data. I'm skilled in various Python libraries, SQL, and the art of exploratory data analysis (EDA). My passion lies in dissecting complex datasets to uncover patterns and insights that drive strategic decisions.
 
 ## Skills with certificates
 - <a href="https://moonshot.scaler.com/s/sl/S5H5tOyZM3"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="python logo"  /> [**Python Libraries:**](https://moonshot.scaler.com/s/sl/S5H5tOyZM3) - Pandas, NumPy, Matplotlib, Seaborn, SciPy 
