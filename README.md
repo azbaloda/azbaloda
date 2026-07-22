@@ -15,11 +15,11 @@ Here are a few projects that showcase my abilities:
 
 ### [ Project 1: Target Business Analysis using SQL](https://github.com/azbaloda/SQL_Target_Analysis)
 
-### [ Project 2: Netflix Data Exploration](https://github.com/azbaloda/Netflix-Data-Exploration-and-Visualisation)
+### [ Project 2: Bank Fraud Detection](https://github.com/azbaloda/Bank-fraud-detection)
 
 ### [ Project 3: Jamboree Linear Regression](https://github.com/azbaloda/Jamboree-Education---Linear-Regression)
 
-### [Project 4: Tableau Dashboard: Sales & Customer](https://public.tableau.com/app/profile/arzoo.baloda/viz/SalesCustomerDashboards_17120333759470/SalesDashboard?publish=yes)
+### [Project 4: Uber Power-Bi Dashboard](https://github.com/azbaloda/Uber---Power-Bi-Dashboard)
 
 ## Connect With Me
 
